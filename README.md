@@ -1,4 +1,4 @@
-## Magizbox Build: Build machine learning projects
+## Magizbox Build: Solve problems by machine learning 
 
 I love machine learning. Through this build series, I will build a bunch of machine-learning based project.
  
