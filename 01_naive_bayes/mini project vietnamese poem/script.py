@@ -24,7 +24,7 @@ def load_dataset(data_folder):
     return dataset
 
 # load dataset
-data_folder = u"data\\poem_4"
+data_folder = u"data\\poem_11"
 poet = load_dataset(data_folder)
 x_train, x_test, y_train, y_test = train_test_split(poet.data, poet.target, test_size=0.1)
 from sklearn.naive_bayes import GaussianNB
